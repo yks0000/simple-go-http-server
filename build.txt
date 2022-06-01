@@ -1,0 +1,2 @@
+docker build . -t yks0000/echoserver:latest
+docker push yks0000/echoserver:latest
